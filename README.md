@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=hedaobaishui&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedaobaishui&layout=compact&theme=dark)
