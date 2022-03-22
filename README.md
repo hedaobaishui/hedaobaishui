@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Taisanai 👋
-
-
 <table><tr><td align="center" width="55%">
   
 ![Ldpe2G's github stats](https://github-readme-stats.vercel.app/api?username=hedaobaishui&count_private=false&show_icons=true&theme=dark)
