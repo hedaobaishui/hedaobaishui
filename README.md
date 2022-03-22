@@ -10,3 +10,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedaobaishui&layout=compact&theme=dark)
 
 </td></tr></table>
+
+![GitHub followers](https://img.shields.io/github/followers/hedaobaishui?color=red&logoColor=red&style=social)
